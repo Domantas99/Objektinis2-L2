@@ -1,0 +1,29 @@
+﻿body {
+    background-image: url('https://i.redd.it/r0ad288kma8x.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 732px;
+}
+
+#Button2 {
+margin:10px;
+margin-left:50px;
+
+}
+
+#Label1, #Label2, #Label3, #Label6, #Label7, #Label8, #Label9 {
+    margin: 50px;
+    color: black;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    font-size: 23px;
+}
+
+Table {
+    margin-left: 20px;
+    border-color:brown;  
+    border-width:4px;
+    border-style:solid;
+}

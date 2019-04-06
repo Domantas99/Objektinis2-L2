@@ -1,0 +1,14 @@
+﻿Prenumas1;Gatve1 g.;12;3;dvff;10;0000
+Prenumas2;Gatve2 g.;11;3;dvff;10;0000
+Prenumas3;Gatve3 g.;10;5;dvff;10;0000
+Prenumas4;Gatve4 g.;8;3;dvff;10;0000
+Prenumas5;Gatve5 g.;7;8;dvff;10;2222
+Prenumas6;Gatve6 g.;12;3;dvff;10;1111
+Prenumas7;Gatve7 g.;12;2;dvff;10;2222
+Prenumas8;Gatve8 g.;1;5;dvff;10;1111
+Prenumas9;Gatve9 g.;12;3;dvff;10;1111
+Prenumas10;Gatve10 g.;12;6;dvff;10;1111
+Prenumas11;Gatve10 g.;11;5;dvff;10;3333
+Prenumas12;Gatve4 g.;8;3;dvff;10;3333
+Prenumas13;Gatve4 g.;8;3;dvff;10;2222
+Prenumas14;Gatve4 g.;8;3;dvff;10;1111
